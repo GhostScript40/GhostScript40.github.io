@@ -1,11 +1,11 @@
 # Site settings
-author: Tariq Bailey
-title: 
+author: Ghost Script
+title: The Ghost Of Coding Future.
 header-img: img/home-bg.png
 email: tariqbailey627@gmail.com
-copyright_name: Tariq Bailey
+copyright_name: Ghost Script
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A friendly ghost.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GhostScript40
